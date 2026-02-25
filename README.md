@@ -1,3 +1,7 @@
+# AI-Powered-Image-Analyzer-using-Terraform-AWS-Bedrock-Rekognition
+AI Image Analyzer is a serverless web app where users upload images to automatically understand their content. It uses AWS Rekognition for label detection and AWS Bedrock (Mistral) for natural language descriptions. Built with Terraform, the frontend runs on S3, while API Gateway and Lambda power the backend.
+
+
 <h1 align="center">🚀 AI Project</h1>
 
 <p align="center">
